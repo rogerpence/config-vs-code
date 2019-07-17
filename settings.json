@@ -1,0 +1,36 @@
+{
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": true,
+    "workbench.editor.showTabs": true,
+    "editor.fontFamily": "'Fira Code', 'Source Code Pro Regular', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.lineNumbers": "off",
+    "terminal.integrated.fontFamily": "Menlo for PowerLine",
+    "editor.fontSize": 16,
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 0,
+    "workbench.tree.indent": 28,
+    "breadcrumbs.enabled": true,
+    "[markdown]" : {
+        "editor.wordWrap": "bounded",
+        "editor.wordWrapColumn": 80
+    },
+    "workbench.tree.renderIndentGuides": "always",
+    
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/dist/css"
+        },
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/dist/css"
+        }
+    ],
+    "editor.cursorBlinking": "expand"
+}
